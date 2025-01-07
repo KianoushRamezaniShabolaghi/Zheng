@@ -6,3 +6,5 @@ The visualization tool we are using "ase gui" in a python package called Atomic 
 By using this tool, you can identify the actual atoms that correspond to the index. 
 
 The zeolite framework is not rigid. No atom was fixed or constrained during the simulation.
+
+The main Zheng's file is: XDATCAR_mlff_1h2o2alafi_1_istart0
